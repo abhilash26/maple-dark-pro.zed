@@ -1,0 +1,7 @@
+id = "maple-dark-pro"
+name = "Maple Dark Pro"
+version = "0.0.1"
+schema_version = 1
+authors = ["Abhilash26"]
+description = "A dark theme for VS Code"
+repository = "https://github.com/Abhilash26/maple-dark-pro.zed"

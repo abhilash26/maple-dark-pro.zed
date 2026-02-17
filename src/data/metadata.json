@@ -1,0 +1,12 @@
+{
+    "name": "maple-dark-pro",
+    "type": "dark",
+    "description": "A dark AA WCAG compliant theme for Zed Editor",
+    "colorscheme": "Maple Dark Pro",
+    "author": "Abhilash26",
+    "schema": "https://zed.dev/schema/themes/v0.2.0.json",
+    "usergenerated": true,
+    "version": "0.0.1",
+    "schema_version": 1,
+    "repository": "https://github.com/abhilash26/maple-dark-pro.zed"
+}

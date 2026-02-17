@@ -1,0 +1,13 @@
+{
+    "name": "mapledarkpro.zed",
+    "version": "1.0.0",
+    "description": "Generate a maple dark pro theme for zed",
+    "author": "abhilash26",
+    "main": "index.js",
+    "scripts": {
+        "generate": "node src/generate.js"
+    },
+    "keywords": [],
+    "license": "MIT",
+    "packageManager": "pnpm@10.29.1"
+}
