@@ -3,11 +3,9 @@
 **Maple Dark Pro** is a dark theme for Zed, inspired by the popular 
 [Maple theme](https://github.com/subframe7536/vscode-theme-maple) for VS Code.  
 
-This version has been carefully **tweaked to be WCAG AA compliant**, making it more accessible for users who need higher contrast. Additionally, the background has been **darkened** for a richer, more immersive coding experience. 
-
-## Screenshot
-<img width="1361" height="824" alt="image" src="https://github.com/user-attachments/assets/7350111c-2746-4e72-9d13-8bed73c68590" />
-
+ - This version has been carefully **tweaked to be WCAG AA compliant**, making it more accessible for users who need higher contrast.
+ - Additionally, the background has been **darkened** for a richer, more immersive coding experience.
+ - It uses the structure of catpuccin theme and replaces the colors of maple dark only optimizing the bg color to be darker.
 
 ## Features
 
