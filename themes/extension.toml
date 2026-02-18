@@ -3,5 +3,5 @@ name = "Maple Dark Pro"
 version = "0.0.1"
 schema_version = 1
 authors = ["Abhilash26"]
-description = "A dark theme for VS Code"
-repository = "https://github.com/Abhilash26/maple-dark-pro.zed"
+description = "A dark AA WCAG compliant theme for Zed Editor"
+repository = "https://github.com/abhilash26/maple-dark-pro.zed"
