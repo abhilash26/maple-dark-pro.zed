@@ -7,6 +7,9 @@
  - Additionally, the background has been **darkened** for a richer, more immersive coding experience.
  - It uses the structure of catpuccin theme and replaces the colors of maple dark only optimizing the bg color to be darker.
 
+## Screenshots
+<img width="1357" height="792" alt="image" src="https://github.com/user-attachments/assets/0cb793c9-6d5e-4938-90be-949a9d4081af" />
+
 ## Features
 
 - Dark background optimized for long coding sessions
